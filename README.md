@@ -20,7 +20,7 @@ Get Result: The tool will display the converted value.
 Installation
 To use this tool, clone the repository and follow the setup instructions:
 
-git clone https://github.com/nithiritgithup/unit-conversion-tool.git
+git clone [https://github.com/nithiritgithup/unit-conversion-tool.git](https://github.com/nithiritgithup/Unit_Convertion.git)
 cd unit-conversion-tool
 # Install any necessary dependencies if applicable
 Tools and Resources
